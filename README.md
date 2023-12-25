@@ -19,6 +19,9 @@ Visual components and Python
 
 ## Experiment:
 
+![maths3](https://github.com/ARCHANAT1305/Open-Jacson-Networks/assets/145975189/bd095bea-6e88-4c79-94e7-0b8bb4216ba4)
+
+
 
 ## Program
 Developed BY : ARCHANA.T
